@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://appadaycreator.github.io/sitemap.xml
+
+Sitemap: https://appadaycreator.github.io/sitemap-index.xml
